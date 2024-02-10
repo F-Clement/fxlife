@@ -1,7 +1,7 @@
 ---
 name: User Story
 about: User stories for fxlife
-title: ''
+title: 'User Story:'
 labels: ''
 assignees: ''
 
